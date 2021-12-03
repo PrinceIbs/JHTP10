@@ -1,0 +1,5 @@
+100       Alan      Smith     1234.56   
+212       Mary      Smith     789.10    
+300       Peter     James     1112.13   
+313       Rude      Anon      1415.16   
+404       Note      Bush      171819.20 
